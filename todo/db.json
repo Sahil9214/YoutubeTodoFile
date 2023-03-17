@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "TodoApp",
+      "status": false
+    },
+    {
+      "title": "Redux thunk",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Lean react",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn JS",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "Lean HTML",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
